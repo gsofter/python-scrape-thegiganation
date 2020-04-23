@@ -1,5 +1,8 @@
 # GigaNation Email Scrapping
 
+Email Scrapping from [GigaNation](http://thegiganation.com/).
+Beautifulsoup 4.0, email-scraper
+
 ### Prerequisites
 
 ```
